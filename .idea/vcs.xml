@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/base16" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/base64url" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/cake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/covertool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/cowboy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/cowlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/edate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/eini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/emysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/eredis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/eredis_pool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/erl_img" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/erlcloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/goldrush" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/iso8601" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/jose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/jsx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/lager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/lhttpc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/meck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/poolboy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/proper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/ranch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/recon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deps/uuid" vcs="Git" />
+  </component>
+</project>

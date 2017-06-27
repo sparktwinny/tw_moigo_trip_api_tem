@@ -1,0 +1,25 @@
+%%%-------------------------------------------------------------------
+%%% @author spark
+%%% @copyright (C) 2015, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 17. 12월 2015 오후 1:44
+%%%-------------------------------------------------------------------
+{application, tw_moigo_trip_api, [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+    kernel,
+    stdlib
+
+
+  ]},
+  {modules,[
+    tw_monitor,
+    tw_monitor_sup
+  ]},
+  {mod, {tw_moigo_trip_api_app, []}},
+  {env, []}
+]}.

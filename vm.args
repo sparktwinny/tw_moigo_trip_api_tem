@@ -1,0 +1,34 @@
+-pa ./ebin
+-pa ./deps/cowboy/ebin
+-pa ./deps/cowlib/ebin
+-pa ./deps/ranch/ebin
+-pa ./deps/jsx/ebin
+-pa ./deps/emysql/ebin
+
+-pa ./deps/esockd/ebin
+-pa ./deps/gproc/ebin
+-pa ./deps/esockd/ebin
+-pa ./deps/mochiweb/ebin
+-pa ./deps/lager/ebin
+-pa ./deps/gen_logger/ebin
+-pa ./deps/erlcloud/ebin
+-pa ./deps/lhttpc/ebin
+-pa ./deps/eredis_pool/ebin
+-pa ./deps/poolboy/ebin
+-pa ./deps/eredis/ebin
+-pa ./deps/lager/ebin
+-pa ./deps/goldrush/ebin
+-pa ./deps/jch/ebin
+-pa ./deps/erl_img/ebin
+-pa ./deps/iso8601/ebin
+-pa ./deps/base64url/ebin
+-pa ./deps/jose/ebin
+-pa ./deps/uuid/ebin
+
++P 300000
+-setcookie EuFDXuZcjafxsBPd
+
+-config ./sys.config
+
+-eval "application:start(tw_moigo_trip_api)"
+-name test_node@203.247.208.122
